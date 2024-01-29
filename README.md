@@ -1,5 +1,5 @@
 # DarkenPDF
-Python script to darken and increase contrast any PDF's so that one can get better readability from their weak printers
+Python script to darken and increase contrast any PDF's so that one can get better readability after printing from their weak printers
 
 
 Please ensure you have Python and Pip installed
