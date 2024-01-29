@@ -24,10 +24,14 @@ Please ensure you have Python and Pip installed
 
 1) Open CMD
 2) Paste the following command
->> curl https://bootst/rap.pypa.io/get-pip.py -o get-pip.py
+```sh
+curl https://bootst/rap.pypa.io/get-pip.py -o get-pip.py
+```
 3) Press Enter
-4) Then paste in the following command
->> python get-pip.py
+4) Then copy and paste the following command
+```sh
+python get-pip.py
+```
 
 ![image](https://github.com/chillnerd/DarkenPDF/assets/155835822/5683e948-a7ef-44cd-9083-88a065234080)
 
