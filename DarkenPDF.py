@@ -1,4 +1,4 @@
-#!pip install tkinter,PyMuPDF,Pillow
+!pip install tkinter,PyMuPDF,Pillow
 import os, shutil , fitz
 from PIL import Image, ImageEnhance
 from tkinter.filedialog import askopenfilename
