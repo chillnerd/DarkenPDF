@@ -35,3 +35,6 @@ python get-pip.py
 
 ![image](https://github.com/chillnerd/DarkenPDF/assets/155835822/5683e948-a7ef-44cd-9083-88a065234080)
 
+```sh
+pip install -r requirements.txt
+```
